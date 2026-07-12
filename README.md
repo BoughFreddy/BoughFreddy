@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BoughFreddy&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="[https://komarev.com/ghpvc/?username=BoughFreddy&label=Profile%20Views&color=0e75b6&style=flat](https://camo.githubusercontent.com/bb14f1ff984b701b597196288d5cf3f7b62089407a9ed9921c0d0a4edde8039d/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f403a52696b755361746f303f7468656d653d626f6f72752d6a61797065652670616464696e673d37267363616c653d3126616c69676e3d746f7026706978656c617465643d31266461726b6d6f64653d6175746f)" />
+  <img src="https://count.getloli.com/@:BoughFreddy?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </p>
 
 ---
