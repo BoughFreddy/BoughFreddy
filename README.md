@@ -1,86 +1,101 @@
-<h1 align="center">👋 Hi, I'm Bough Freddy</h1>
-<h3 align="center">🚀 Full Stack Developer | Freelancer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Bough Freddy</h1>
+
+<h3 align="center">
+Full Stack Developer • Freelancer • Building scalable web applications
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BoughFreddy&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://count.getloli.com/@:BoughFreddy?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </p>
 
----
+<br>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Building scalable & high-performance web apps  
-- ⚡ Focused on clean UI/UX & speed  
-- 🌱 Learning system design & advanced backend  
-- 🎯 Turning ideas into real products  
+- 💻 Full Stack Developer passionate about building scalable applications.
+- 🚀 Focused on performance, clean architecture, and user experience.
+- 🌱 Currently learning System Design and advanced backend engineering.
+- 🎯 Turning ideas into real-world products.
 
----
+<br>
 
 ## 🚀 Tech Stack
 
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,vue,nodejs,express,solidity" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
-</p>
-
----
-
-## 📊 GitHub Stats
+### Languages & Frameworks
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BoughFreddy&show_icons=true&theme=light&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=BoughFreddy&theme=light&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,vue,nodejs,express,solidity" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
+</p>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BoughFreddy&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=BoughFreddy&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BoughFreddy&layout=compact&theme=light&hide_border=true" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoughFreddy&layout=compact&hide_border=true" />
 </p>
 
----
+<br>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoughFreddy&theme=default&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoughFreddy&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/snake.svg" />
 </p>
 
----
+<br>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN](https://github.com/BoughFreddy)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="[YOUR_PORTFOLIO](https://github.com/BoughFreddy)">
-    <img src="https://skillicons.dev/icons?i=webflow" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL](https://github.com/BoughFreddy)">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://github.com/BoughFreddy" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=webflow" />
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/BoughFreddy">A Good Dev</a>
+Thanks for visiting! ⭐
 </p>
