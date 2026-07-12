@@ -18,16 +18,15 @@ jobs:
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: BoughFreddy
 
       - name: Check generated files
         run: |
-          ls -la
-          ls -la output || true
+          echo "Searching files..."
+          find . -name "*pacman*" -o -name "*.svg"
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate Pacman contribution graph"
-          file_pattern: output/*
-          branch: main
+          file_pattern: "*.svg"
