@@ -25,3 +25,4 @@ jobs:
         with:
           commit_message: "Generate Pacman contribution graph"
           file_pattern: output/*
+          branch: main
