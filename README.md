@@ -5,7 +5,7 @@ Full Stack Developer • Freelancer • Building scalable web applications
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BoughFreddy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=BoughFreddy&label=Profile%20Views&color=0e75b6&style=flat" /> -->
   <img src="https://count.getloli.com/@:BoughFreddy?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </p>
 
