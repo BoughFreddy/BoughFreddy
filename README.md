@@ -72,7 +72,7 @@ Full Stack Developer • Freelancer • Building scalable web applications
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/pacman-contribution-graph.svg" />
 </p>
 
 <br>
