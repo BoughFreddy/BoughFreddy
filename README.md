@@ -45,14 +45,19 @@ Full Stack Developer • Freelancer • Building scalable web applications
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BoughFreddy&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=BoughFreddy&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BoughFreddy&show_icons=true&theme=light&hide_border=true" height="165"/>
+
+  <img src="https://streak-stats.demolab.com?user=BoughFreddy&theme=light&hide_border=true" height="165"/>
+
 </p>
+
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoughFreddy&layout=compact&hide_border=true" />
-</p>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BoughFreddy&layout=compact&theme=light&hide_border=true" height="165"/>
+
+</p>>
 
 <br>
 
@@ -67,7 +72,7 @@ Full Stack Developer • Freelancer • Building scalable web applications
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/BoughFreddy/BoughFreddy/output/snake.svg" />
 </p>
 
 <br>
@@ -88,7 +93,7 @@ Full Stack Developer • Freelancer • Building scalable web applications
 <img src="https://skillicons.dev/icons?i=webflow" />
 </a>
 
-<a href="mailto:you@example.com">
+<a href="mailto:dm3693076@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
